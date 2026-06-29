@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Привет! Меня зовут Андрей — я Java-разработчик
 
-<!--
-**AndreyK161/AndreyK161** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Изучаю бэкенд-разработку на **Java / Spring Boot**.  
+Развиваюсь в направлении **микросервисной архитектуры**, **CI/CD**, **асинхронных систем** и **тестирования**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Немного обо мне
+
+- С **сентября 2024 по январь 2025** занимался самостоятельной разработкой учебных проектов и изучением Spring Boot.  
+- С **января по июнь 2025** проходил ученическую стажировку в компании **Work Solutions**, где занимался backend-разработкой корпоративных сервисов.  
+  > Код проекта является внутренней собственностью компании и не публикуется в открытом доступе.  
+- Сейчас (с октября 2025) продолжаю создавать pet-проекты и изучаю новые технологии в Java-разработке.
+
+---
+
+### Технологии и инструменты
+
+**Языки:** Java, SQL  
+**Фреймворки:** Spring Boot, Spring Data JPA, Spring Security, Spring MVC  
+**Базы данных:** PostgreSQL, Redis, Liquibase  
+**Тестирование:** JUnit, JMeter  
+**CI/CD и инструменты:** Git, GitLab CI/CD, Docker, MailHog, Maven, Gradle  
+**Технологии:** REST API, Keycloak, RabbitMQ, Kafka  
+**Подходы:** Clean Code, SOLID, Scrum, Kanban
+
+---
+
+### Учебные проекты
+
+#### [Personal Projects](#)
+Разрабатываю собственные pet-проекты на Spring Boot для отработки паттернов, работы с БД и REST API.  
+Некоторые из них посвящены авторизации (Keycloak), очередям (RabbitMQ) и интеграции микросервисов.  
+> Исходный код доступен в открытых репозиториях ниже 👇
+
+---
+
+### Активность
+
+> GitHub отражает мои учебные и личные проекты, начатые с сентября 2024 года.  
+> В период с января по июнь 2025 основная активность велась на корпоративном GitLab в рамках стажировки.
+
+---
+
+### Контакты
+
+📧 andrey.k.dev161@gmail.com 
+📍 Ростов-на-Дону  
+
+---
+
+Буду рад фидбеку, советам и новым знакомствам в IT-сфере!
